@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/marcus/ncros2_ws/install/udp_driver/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_track_controller/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_snowtocol_devices/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_snowtocol/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_inuktun_cam_controller/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_dynamixel_hardware_interface/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_serial_bridge/include/**",
+        "/home/marcus/ncros2_ws/install/serial_driver/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_visca/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_usb_cam/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_pointcloud_tools/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_image_tools/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_gige_cam/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_bag_tools/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_interfaces/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_image_publisher/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_controllers/include/**",
+        "/home/marcus/ncros2_ws/install/ncros2_common/include/**",
+        "/home/marcus/ncros2_ws/install/io_context/include/**",
+        "/home/marcus/ncros2_ws/install/dynamixel_workbench_toolbox/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

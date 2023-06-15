@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/marcus/ncros2_ws/build/ros_tcp_endpoint",
+        "/home/marcus/ncros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/marcus/ncros2_ws/install/ncros2_interfaces/local/lib/python3.10/dist-packages",
+        "/home/marcus/ncros2_ws/install/ncros2_common/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/marcus/ncros2_ws/build/ros_tcp_endpoint",
+        "/home/marcus/ncros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/marcus/ncros2_ws/install/ncros2_interfaces/local/lib/python3.10/dist-packages",
+        "/home/marcus/ncros2_ws/install/ncros2_common/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
